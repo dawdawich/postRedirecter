@@ -185,6 +185,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../ArtemProjects/PostRedirecter" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
